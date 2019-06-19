@@ -1,5 +1,3 @@
-﻿#Run local scripts.
-#set-executionpolicy remotesigned
 # Set VM Name, Switch Name, and Installation Media Path.
 $VMName = 'ubuntu'
 $Switch = 'Bridged Virtual Switch'
