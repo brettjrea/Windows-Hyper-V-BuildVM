@@ -1,8 +1,8 @@
 # Set VM Name, Switch Name, and Installation Media Path.
 $VMName = 'ubuntu'
 $Switch = 'Bridged Virtual Switch'
-$InstallMedia = 'C:\Users\brett\OneDrive\HyperV\ISO\mini.iso'
-$VHDX = "C:\Users\brett\OneDrive\HyperV\VHD\$VMName.vhdx"
+$InstallMedia = 'C:\Users\user\OneDrive\HyperV\ISO\mini.iso'
+$VHDX = "C:\Users\user\OneDrive\HyperV\VHD\$VMName.vhdx"
 
 #Create New Virtual Switch
 New-VMSwitch -Name $Switch -AllowManagementOS $true -NetAdapterName 'wi-fi'
