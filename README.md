@@ -5,3 +5,6 @@
 
 ### Allow unsigned scripts.
 `set-executionpolicy remotesigned`
+
+### Run Script via VSCODE, Powershell ISE, etc...
+
