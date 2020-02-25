@@ -9,4 +9,5 @@ Powershell script that will create and configure a Hyper-V VM and start ISO. Bui
 
 ### Run Script via VSCODE, Powershell ISE, etc...
 
-[CreateVM.ps1]
+[CreateVM.ps1](
+https://github.com/brettjrea/Windows-Hyper-V-BuildVM/blob/master/CreateVM.ps1)
