@@ -17,14 +17,14 @@ Enable-WindowsOptionalFeature -Online -FeatureName Microsoft-Hyper-V -All
 ### Download and run script from CMD, Powershell, Terminal, VScode.
 
 
-*Download Powershell Script.
+*Download Powershell Script.*
 
 
 ```
 Invoke-WebRequest -Uri https://github.com/brettjrea/Windows_Hyper_V-BuildVM/blob/master/CreateVM.ps1
 ```
 
-*Run Powershell Script.
+*Run Powershell Script.*
 
 
 ```
